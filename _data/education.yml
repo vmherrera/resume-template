@@ -1,14 +1,9 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
+- degree: Bachelor of Science, Physics
+  uni: California State Polytechnic University, Pomona
+  year: 2014
+  gpa: 3.6 / 4.0
   awards:
     - award: Quickest to fall asleep
     - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+  summary: 
