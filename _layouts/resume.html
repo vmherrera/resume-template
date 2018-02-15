@@ -36,14 +36,15 @@
         <div class="executive-summary no-print" itemprop="description">
           {{ site.resume_header_intro }}
         </div>
-
+        <center>
         {% if site.resume_looking_for_work == 'yes' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
         {% endif %}
-        <a href="https://http://vmherrera.github.io/cv.pdf" class="contact-button no-print" itemprop="email">Download .PDF CV</a>
+        <a href="https://www.vmherrera.github.io/cv.pdf" class="contact-button no-print" itemprop="email">Download .PDF CV</a>
+        <center>
       </header>
 
       {% if site.resume_section_experience %}
@@ -138,7 +139,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Honors & Recognitions</h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
@@ -231,7 +232,7 @@
 
       <footer class="page-footer">
         <p class="footer-line">
-          Reworked by <a href="http://twitter.com/jrnafziger">@jrnafziger</a>. Forked from <a href="https://github.com/jglovier/resume-template">Template</a> by <a href="http://twitter.com/jglovier">@jglovier</a>.
+          Reworked by <a href="https://github.com/vmherrera">@vmherrera</a>. Forked from <a href="https://github.com/jglovier/resume-template">Template</a> by <a href="http://twitter.com/jglovier">@jglovier</a>.
         </p>
       </footer>
 
