@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Victor Herrera"
+resume_name:                    "Victor M. Herrera"
 resume_title:                   "Programmer, Physicist, Analyst"
 resume_contact_email:           "vherrera6@gmail.com"
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info: " |  | vherrera6@gmail.com"
-resume_header_intro: "<p>Working knowledge of Electro-Mechanical design. Growing appreciation for deep learning and predictive analytics.</p>"
+resume_header_intro: "<p>Working knowledge of Electro-Mechanical design; Growing appreciation for predictive analytics and deep learning.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -30,7 +30,7 @@ resume_section_experience:      true
 resume_section_education:       true
 #resume_section_projects:        true
 resume_section_skills:          true
-#resume_section_recognition:     true
+resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
 # resume_section_interests:       true

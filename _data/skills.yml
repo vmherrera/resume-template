@@ -3,40 +3,33 @@
 - skill: Programming
   description: >
     <ul class="resume-item-list horizontal-list">
-    <li>MATLAB </li>
+    <li>MATLAB/Octave </li>
     <li>C++ </li>
     <li>Python </li>
     <li>R </li><br>
     <li>JavaScript </li>
     <li>HTML </li>
-    <li>LaTeX </li>
     <li>CSS </li>
+    <li>LaTeX </li>
     <li>Git </li>
     </ul>
 
-- skill: Software
+- skill: Math and Physics
   description: >
     <ul class="resume-item-list horizontal-list">
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    </ul>
-
-- skill: Core Competencies
-  description: >
-    <ul class="resume-item-list horizontal-list">
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Quantum Mechanics</li>
+    <li>Numerical ODEs, PDEs, and DAEs</li>
+    <li>Classical Mechanics</li>
+    <li>Linear and Nonlinear Optics</li>
+    <li>Spectroscopy</li>
+    <li>Numerical Inverse Problems</li>
     </ul>
 
 - skill: Loose Competencies
   description: >
     <ul class="resume-item-list horizontal-list">
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Electrical Engineering</li>
+    <li>Systems Engineering</li>
+    <li>Software Engineering</li>
+    <li>UI/UX Design</li>
     </ul>
