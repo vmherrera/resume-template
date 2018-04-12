@@ -1,6 +1,6 @@
 # Skills
 
-- skill: Programming
+- skill: Programming & Languages
   description: >
     <ul class="resume-item-list horizontal-list">
     <li>MATLAB/Octave </li>
@@ -8,13 +8,25 @@
     <li>Python </li>
     <li>R </li><br>
     <li>JavaScript </li>
-    <li>HTML </li>
-    <li>CSS </li>
+    <li>Bash </li>
     <li>LaTeX </li>
-    <li>Git </li>
+    <li>git </li>
+    <li>VBA </li>
     </ul>
 
-- skill: Math and Physics
+- skill: Data & Visualization Frameworks
+  description: >
+    <ul class="resume-item-list horizontal-list">
+    <li>Tableu </li>
+    <li>D3.js </li>
+    <li>dc.js </li>
+    <li>Django </li>
+    <li>AngularJS </li>
+    <li>REST </li>
+    <li>pandas </li>
+    </ul>
+
+- skill: Math & Physics
   description: >
     <ul class="resume-item-list horizontal-list">
     <li>Quantum Mechanics</li>
@@ -25,7 +37,7 @@
     <li>Numerical Inverse Problems</li>
     </ul>
 
-- skill: Loose Competencies
+- skill: Proficiencies
   description: >
     <ul class="resume-item-list horizontal-list">
     <li>Electrical Engineering</li>

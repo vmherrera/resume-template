@@ -21,7 +21,7 @@
 .page-header { padding: 1.5rem 0;
 
   .avatar {
-    width: 95px;
+    width: 195px;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
@@ -158,10 +158,18 @@
   .resume-item-details,
   .resume-item-copy,
   .resume-item-list {
+    li {
+      list-style-type: none;
+    }
+    li:before {
+      content: '\00a0\2022\00a0\00a0';
+      font-size: 20px;
+    }
     a {
       color: #333;
       text-decoration: none;
       border-bottom: 1px solid;
+      line-height: 1.5;
 
       &:hover {
         border-bottom: none;

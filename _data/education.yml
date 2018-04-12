@@ -3,9 +3,6 @@
   uni: California State Polytechnic University, Pomona
   year: 2014
   gpa: 3.6 / 4.0
-  awards:
-    - award: President's Honor List
-    - award: Dean's Honor List
   summary:
     <ul class="resume-item-list">
     <li>Applied Optics (Raytracing, OSLO familiarity) and Optics Lab (Developed a method to determine the pixel size in a display device modeled as a diffraction grating)</li>
