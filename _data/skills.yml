@@ -5,8 +5,8 @@
     <ul class="resume-item-list horizontal-list">
     <li>MATLAB/Octave </li>
     <li>C++ </li>
-    <li>Python </li>
-    <li>R </li><br>
+    <li>Python [pandas, scikit-learn] </li>
+    <li>R [ggplot2, dplyr, tidyverse] </li><br>
     <li>JavaScript </li>
     <li>Bash </li>
     <li>LaTeX </li>
@@ -17,13 +17,12 @@
 - skill: Data & Visualization Frameworks
   description: >
     <ul class="resume-item-list horizontal-list">
-    <li>Tableu </li>
-    <li>D3.js </li>
+    <li>Tableau </li>
+    <li><code>D3.js </code></li>
     <li>dc.js </li>
     <li>Django </li>
     <li>AngularJS </li>
     <li>REST </li>
-    <li>pandas </li>
     </ul>
 
 - skill: Math & Physics
