@@ -4,8 +4,8 @@
   year: 2014
   gpa: 3.6 / 4.0
   summary:
-    <ul class="resume-item-list">
-    <li>Applied Optics (Raytracing, OSLO familiarity) and Optics Lab (Developed a method to determine the pixel size in a display device modeled as a diffraction grating)</li>
+    <ul class="resume-item-list"><em>Coursework:</em>
+    <li>Applied Optics (Raytracing, <code>OSLO</code> familiarity) and Optics Lab (Developed a method to determine the pixel size in a display device modeled as a diffraction grating)</li>
     <li>Electronics (Circuit modeling with diodes, transistors, and op-amps)</li>
     <li>Advanced Physics Lab (Precision capacitance measurements with Electrometer, Magnetic susceptibility measurements with Gouy balance, Tunneling spectroscopy measurements of a silicon Esaki junction)</li>
     <li>Solid State Physics Lab (Examined electron paramagnetic resonance signals of DPPH, the Hall Effect, and X ray Crystallography of the Sodium Chloride crystal lattice)</li>

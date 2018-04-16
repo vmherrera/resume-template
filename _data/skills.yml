@@ -5,8 +5,8 @@
     <ul class="resume-item-list horizontal-list">
     <li>MATLAB/Octave </li>
     <li>C++ </li>
-    <li>Python [pandas, scikit-learn] </li>
-    <li>R [ggplot2, dplyr, tidyverse] </li><br>
+    <li>Python [<code>pandas</code>, <code>scikit-learn</code>] </li>
+    <li>R [<code>ggplot2</code>, <code>dplyr</code>, <code>tidyverse</code>] </li><br>
     <li>JavaScript </li>
     <li>Bash </li>
     <li>LaTeX </li>
@@ -19,7 +19,7 @@
     <ul class="resume-item-list horizontal-list">
     <li>Tableau </li>
     <li><code>D3.js </code></li>
-    <li>dc.js </li>
+    <li><code>dc.js </code></li>
     <li>Django </li>
     <li>AngularJS </li>
     <li>REST </li>

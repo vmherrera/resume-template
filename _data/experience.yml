@@ -3,16 +3,16 @@
 - company: C. R. LAURENCE CO., INC
   position: Data Analyst, Business Development, Full Stack Developer
   duration: April, 2016 &mdash; Present
-  summary: Developed novel realtime web applications for quantitive data analyses and visualization of complex datasets. Head of development for statistical and machine-learning algorithms and interactive web-based business reports. Developed Excel/VBA and Python REST-API models and dashboards for internal use in evaluating employee performance, alleviating staff attrition, and qualifying/classifying leads in the sales pipeline in a business-to-business market environment.
+  summary: Developed novel realtime web applications for quantitive data analyses and visualization of complex datasets. Head of development for statistical and machine-learning algorithms and interactive web-based business reports. Enhanced HR data analysis architecture by developing internal tools for power analysis and data cleaning - with technical documentation and tutorials. Developed Excel/<code>VBA</code> and <code>Python</code> REST-API models and dashboards for internal use in evaluating employee performance, alleviating staff attrition, and qualifying/classifying leads in the sales pipeline in a business-to-business market environment.
 
 #
 - company: SPECTOCCULAR LABS, LLC
   position: Optomechanics/Optical Design Contractor
   duration:  2013 &mdash; 2015
-  summary: ZEMAX modeling and ZPL script writing that facilitated distortion analysis of simple and complex optical trains. Authored various ZPL macros intended to automate raytracing under various considerations. Developed internal tools for embedded software modeling and analysis. Developed non-linear regression models (Gauss-Newton, Levenberg- Marquardt) and utilized non-linear optimization techniques (Nelder-Mead simplex) in error processing in a feedback control system. Developed discrete and stochastic reflection models for varied optical fiber assemblies. Developed visual demo tools for hardware prototype.
+  summary: ZEMAX modeling and <code>ZPL</code> script writing that facilitated distortion analysis of simple and complex optical trains. Authored various <code>ZPL</code> macros intended to automate raytracing under various considerations. Developed internal tools for embedded software modeling and analysis. Developed non-linear regression models (Gauss-Newton, Levenberg- Marquardt) and utilized non-linear optimization techniques (Nelder-Mead simplex) in error processing in a feedback control system. Developed discrete and stochastic reflection models for varied optical fiber assemblies. Developed visual demo tools for hardware prototype.
 
 #
 - company: California State Polytechnic University, Pomona
   position: Laboratory Techician
   duration:   2013 &mdash; 2014
-  summary: Research concerned with developing optical sensors that can be used to detect very small temperature, strain, and refractive index changes. Employed in-house tapering methods of standard optical communication fibers. Developed comprehensive tests to assure sensor sensitivity using an optical spectrum analyzer and broadband source.
+  summary: Research concerned with developing optical sensors that can be used to detect very small temperature, strain, and refractive index changes. Employed in-house LabVIEW powered tapering methods of standard optical communication fibers. Developed comprehensive tests to assure sensor sensitivity using an optical spectrum analyzer and broadband source.
